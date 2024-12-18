@@ -1,1 +1,1 @@
-# Cosmetics-
+# Cosmetics shop interface
